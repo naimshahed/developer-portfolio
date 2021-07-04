@@ -11,6 +11,7 @@ span{
 section{
     display: flex;
     padding-left: 5%;
+    margin-top: 150px;
 }
 .half-width{
     width: 250%;
@@ -30,4 +31,12 @@ section{
 }
 .top-banner{
     background-repeat: no-repeat;
+}
+
+.Dreambig{
+    background-image: url(images/dream-bg.png);
+
+}
+.Dreambig{
+    background-image: url(images/top-banner.png);
 }
