@@ -40,3 +40,6 @@ section{
 .Dreambig{
     background-image: url(images/top-banner.png);
 }
+footer p{
+    text-align: center;
+}
