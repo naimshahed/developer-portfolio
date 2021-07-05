@@ -1,6 +1,7 @@
 body{
     font-family: 'Poppins', sans-serif;
     margin: 0px;
+    background-color: lime;
 }
 h1{
     font-size: 50px;
@@ -17,7 +18,7 @@ section{
     width: 250%;
     padding-left: 5px;
 }
-.half-width image{
+.half-width img{
     width: 80%;
 }
 .link-batton{
@@ -42,4 +43,7 @@ section{
 }
 footer p{
     text-align: center;
+}
+.maruf img{
+    width: 100%;
 }
